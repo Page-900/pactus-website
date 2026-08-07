@@ -51,7 +51,7 @@ enough validators signal support for a change, the whole network switches to the
 rules at the same time, with no chain split and no interruption. That is what happened
 here.
 
-**[Read the full announcement →](https://pactus.org/2026/07/14/pip-55-activated/)**
+**[Read the full announcement →](https://pactus.org/2026/07/14/pip-55-activated-block-reward-halving-successfully-implemented/)**
 
 The new reward schedule is:
 
